@@ -1,0 +1,266 @@
+{
+    "data": [
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/662267976984297473/4798759e115d2500fef16347d578729a.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/662267976984297473/39128f6c9fc33f4c95a27d4c601ad7db.jpg?size=256",
+            "title": "Midjourney",
+            "description" : "The official server for Midjourney, a text-to-image AI where your imagination is the only limit.",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": true,
+            "category": "Entertainment"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/586704051148816385/8d9f4e10f9394ee7d8ba90bec94ef2a0.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/586704051148816385/a_0373a32bd3c0a40c117a7dbfc541eaf1.jpg?size=256",
+            "title": "Blox Fruits",
+            "description" : "The official community for the popular Roblox game known as Blox Fruits.",
+            "online" : "272,982",
+            "members" : "1,749,995 ",
+            "varified": false,
+            "category": "Gaming"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/522681957373575168/88fa1763572d18aa0692c5212108275a.jpg?size=512",
+            "logo": "https://cdn.discordapp.com/icons/522681957373575168/84a7500128d64ca60e959799c3e66f21.jpg?size=256",
+            "title": "Genshin Impact Official",
+            "description" : "Welcome to Teyvat, Traveler! This is the place to discuss with others about your favorite game: Genshin Impact!",
+            "online" : "349,379 ",
+            "members" : "1,625,398  ",
+            "varified": true,
+            "category": "Gaming"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/710745950380884009/516d0293ef3c0ba1c2cfe361f04ec484.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/710745950380884009/eddb33db0199ca4ded014bd9e29fa07d.jpg?size=256",
+            "title": "All Star",
+            "description" : "Form teams and defend your towers! Get ready for an adventure through the wonderful world of All Star Tower Defense!",
+            "online" : "349,379 ",
+            "members" : "1,625,398  ",
+            "varified": false,
+            "category": "Gaming"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/916379725201563759/9c8b330bec9ace76758acc89e5d8652a.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/916379725201563759/3b4dff9742a9b95005e651179c4945f1.jpg?size=256",
+            "title": "Sui",
+            "description" : "Sui is a Layer 1 blockchain designed from the bottom up to make digital asset ownership accessible to everyone.",
+            "online" : "349,379 ",
+            "members" : "1,625,398  ",
+            "varified": false,
+            "category": "Education"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/595999872222756885/e7e71c65fd86917fbab62391b39e2e63.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/595999872222756885/a_aea7dfa08a0bc3dc1e4db2a3d85d995b.jpg?size=256",
+            "title": "Study Together",
+            "description" : "The largest study and productivity server on Discord! Study live-time with others via camera, screenshare or chat! 📚",
+            "online" : "349,379 ",
+            "members" : "1,625,398  ",
+            "varified": true,
+            "category": "Education"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/319560327719026709/5ea0ff07997c04cae1556fe4ed43c52c.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/319560327719026709/a_8345885ea12ba194329765e475c5fea6.jpg?size=256",
+            "title": "Dadscord ",
+            "description" : "⚡ #1 Most Active Chat 💬 & VC 🔊 [300+ Users 24/7] ❤ 500+ Emotes 🎁 Giveaway ♾ Discord Most active Server since 2017! ⚡",
+            "online" : "349,379 ",
+            "members" : "1,625,398 ",
+            "varified": false,
+            "category": "Education"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/679875946597056683/2d08c04cf5539f18983214012cb246df.jpg?size=512",
+            "logo": "https://cdn.discordapp.com/icons/679875946597056683/6f6359cc8a46abffcc73abf32fd5c43d.jpg?size=256",
+            "title": "VALORANT",
+            "description" : "The official VALORANT Discord server, in collaboration with Riot Games. Find the latest news and talk about the game!",
+            "online" : "349,379 ",
+            "members" : "1,625,398  ",
+            "varified": true,
+            "category": "Gaming"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/267624335836053506/0ea813f39386016f046ae511a0409c31.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/discovery-splashes/267624335836053506/0ea813f39386016f046ae511a0409c31.jpg?size=256",
+            "title": "Python ",
+            "description" : "We're a large community focused around the Python programming language. We believe that anyone can learn to code.",
+            "online" : "349,379 ",
+            "members" : "1,625,398 ",
+            "varified": true,
+            "category": "Education"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/707230275175841915/b822328360c7ccb57adf7c096c99816e.jpg?size=512",
+            "logo": "https://cdn.discordapp.com/icons/707230275175841915/ed3ece7862509a1cd70b8563402b7801.jpg?size=256",
+            "title": "Lofi Girl ",
+            "description" : "The friendliest community on Discord 🧡 Join now to meet amazing people from all around the world 🌎",
+            "online" : "79,096",
+            "members" : "930,056 ",
+            "varified": true,
+            "category": "Music"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/150074202727251969/cd07c5226d9bebdeb59323c96b530480.jpg?size=512",
+            "logo": "https://cdn.discordapp.com/icons/150074202727251969/ebbf13f631f56f27e52aad1da918d932.jpg?size=256",
+            "title": "Roblox",
+            "description" : "The largest community-run Roblox server. Join for news, chat, LFG, events & more! For both Users and Creators. ✨",
+            "online" : "349,379 ",
+            "members" : "1,625,398  ",
+            "varified": true,
+            "category": "Gaming"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/926691694680870982/75037c54266d71fc27eddb94b5eaf951.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/926691694680870982/a65c2b98282aa270b751541f3a48fce5.jpg?size=256",
+            "title": "Fusionist",
+            "description" : "A scalable and sustainable Sci-Fi universe that fulfills all possible desires.",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": false,
+            "category": "Entertainment"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/1102970375731691612/f229a622417118ca41bbcddbd3aa12f4.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/1102970375731691612/1c420a9ef93cc2e24833f8c2bf7e6039.jpg?size=256",
+            "title": "HELLDIVERS™ Official Discord",
+            "description" : "The official Discord for HELLDIVERS and HELLDIVERS 2!.",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": true,
+            "category": "Entertainment"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/614174628046438410/74fe2cb516c4591c232462a08bbe1bff.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/614174628046438410/a_25215f4d87bb9e96f257f9f0acbf8183.jpg",
+            "title": "Era",
+            "description" : "ERA is a gaming community, in which you are welcome to discuss any game!",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": false,
+            "category": "Entertainment"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/410537146672349205/895d324b12f792510b21e568332b8c2e.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/410537146672349205/dd879b69c8fcc7c23feec72073daf53d.jpg?size=256",
+            "title": "Axie Infinity",
+            "description" : "Axies are fierce, fantasy pets that you can battle & collect!",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": false,
+            "category": "Science & Tech"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/1076190214369853510/f52f3092029bf7cec9bd8a7d96a94514.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/1076190214369853510/9f93cfcbcbd1becd33ff6f4a3d80411b.jpg?size=256",
+            "title": "Adobe Firefly",
+            "description" : "This is the Adobe FireFly Discord server. A place to connect with a community of fellow creators.",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": true,
+            "category": "Science & Tech"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/1000524112176894002/27cdaa4034ce0e31da5497d18e37cea6.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/1000524112176894002/916c65a10a549e5dac0c572a8b0eb48f.jpg?size=256",
+            "title": "Galaxia Studios",
+            "description" : "Galaxia Studios is a global leader in web3 and blockchain game development and the home of fully on-chain gaming. 🎮⛓",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": true,
+            "category": "Science & Tech"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/947911971515293759/aaa0be3e70db4b697a1f70825ecf4129.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/947911971515293759/ee86fd1df20eb2be129f3cecfd4c3ae8.jpg?size=256",
+            "title": "Nibiru Chain",
+            "description" : "The Web3 hub ushering in the next era of money. | Smart contracts, DeFi, RWAs, and more | https://linktr.ee/nibiruchain",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": false,
+            "category": "Science & Tech"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/583678878489378827/b406ee4b4f106757bca711693e6fb0d1.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/583678878489378827/a_5b38aa50c97347e63c117b2d254052a8.jpg?size=256",
+            "title": "GIFLAND #500K 🎉",
+            "description" : "Many nitro users have difficulty finding gifs. Our goal is to help them and non-nitro users.",
+            "online" : "79,096",
+            "members" : "930,056 ",
+            "varified": false,
+            "category": "Music"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/396915157948956672/c193bac48a83bd54553a2877c4addfe2.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/396915157948956672/a_920ee52684e86bd688428886e9770185.jpg?size=256",
+            "title": "ｅ-ｄｇｙ | EGirls • Social • Memes • Anime • Emotes • Fun • Nitro",
+            "description" : "Dystopian cyberpunk server. Memes, misfits -- 24/7 active voicechats up to 100,000 messages a day. Over 460,000 members!",
+            "online" : "79,096",
+            "members" : "930,056 ",
+            "varified": false,
+            "category": "Music"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/679765534950424601/3f21a6a3b2acb36db9ef43cf1c7d2068.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/679765534950424601/a_2108406b9bbba639e56df5507d4e9b39.jpg?size=256",
+            "title": "Mythpat",
+            "description" : "Very Friendly Server That Hosts Music, Talkshow And Interactive Event Shows, With Music Bots & Fun Bots To Hangout With",
+            "online" : "79,096",
+            "members" : "930,056 ",
+            "varified": true,
+            "category": "Music"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/993846798382805002/a21b4e6e8cae09a665c6c1f96dffaaec.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/993846798382805002/3b01fc8d17a0671d44edebbf69a3c010.jpg?size=256",
+            "title": "Mantle Network ",
+            "description" : "Mantle | Mass adoption of decentralized & token-governed technologies. With Mantle Network, Mantle Treasury, and token h",
+            "online" : "349,379 ",
+            "members" : "1,625,398 ",
+            "varified": true,
+            "category": "Education"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/890663529487687691/db2d11548013003cc08333dbc9b88e31.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/890663529487687691/a3885a606e1579aa2a39a80a826eb691.jpg?size=256",
+            "title": "TikTok Effect House ",
+            "description" : "Effect House is a powerful AR tool that makes it easy to create and publish high-quality augmented effects for TikTok",
+            "online" : "349,379 ",
+            "members" : "1,625,398 ",
+            "varified": true,
+            "category": "Education"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/1159260121998827560/badee1605d6bb77b4e5089033f53f7a7.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/1159260121998827560/a_88d5cc4863df0d18cfefd5e62ec0d3ce.jpg?size=256",
+            "title": "AI HUB",
+            "description" : "Welcome to AI Hub! We're a community dedicated to making AI voices, songs and art.",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": true,
+            "category": "Science & Tech"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/1069381916492562582/ad41f03b11ea149ce4a9ee31359e8094.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/discovery-splashes/1069381916492562582/ad41f03b11ea149ce4a9ee31359e8094.jpg?size=256",
+            "title": "Suno",
+            "description" : "Make any song you can imagine",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": true,
+            "category": "Science & Tech"
+        },
+        {
+            "image": "https://cdn.discordapp.com/discovery-splashes/1067165013397213286/e67ac449d18360172af6b95a11345d3c.jpg?size=2048",
+            "logo": "https://cdn.discordapp.com/icons/1067165013397213286/700ef27c9d190b778ed106f29fafd32e.jpg?size=256",
+            "title": "Base",
+            "description" : "Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the next billion users onchain",
+            "online" : "1,368,720",
+            "members" : "19,932,253 ",
+            "varified": false,
+            "category": "Science & Tech"
+        }
+        
+    ]
+    
+}
